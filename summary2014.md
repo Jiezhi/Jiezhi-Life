@@ -14,7 +14,7 @@
 
 5.   (美)斯科特《了不起的盖茨比》2014年08月
 
-6. 《Creating Dynamic UI with An年d Fragments》 2014年09月
+6. 《Creating Dynamic UI with Android Fragments》 2014年09月
 
 7. 《Head First C》 2014年10月
 
