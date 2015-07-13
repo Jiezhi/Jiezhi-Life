@@ -37,9 +37,8 @@
 ##[AdBlock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom)
 	最受欢迎的Chrome扩展，拥有超过4000万用户！屏蔽整个互联网上的广告。
 
-##[Adkill and Media download](https://chrome.google.com/webstore/detail/oedffmimjmgjhjoipojgfaciinembpni)
+##[Adkill and Media download](https://chrome.google.com/webstore/detail/adkill-and-media-download/lcibdonokophlabplhpmmmjjbgohgcok)
 	去视频广告、视频音频下载、正常显示反盗链图片三合一 by xplsy
-(现在已经没了，*未找到相关项目，该项目可能已被作者删除。*)
 
 ##[Advertising Terminator 3.1.4](https://chrome.google.com/webstore/detail/fpdnjdlbdmifoocedhkighhlbchbiikl)
 	Clear all the ads on the page: floating ads, shopping ads, malicious pop, tracking code, video ads.
