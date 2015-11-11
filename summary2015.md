@@ -4,3 +4,6 @@
 * 买了[jiezhiblog.com](http://jiezhiblog.com)个域名并备案（*3月*）
 * 获得C1驾驶证（*2015年08月19日*）
 * 杭州、乌镇游玩（*2015年09月03日-05日*）
+* 背完六级单词(*2015年11月04日*)
+* 入了机械键盘(*2015年11月09日*)
+  ![](http://7xlub0.com1.z0.glb.clouddn.com/poker-poker.jpg)
